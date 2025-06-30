@@ -12,3 +12,4 @@ else:
             print("Maaf, anda tidak bisa ikut cerdas cermat.")
         else:
             print("Selamat! Kamu boleh ikut lomba cerdas cermat.")
+
